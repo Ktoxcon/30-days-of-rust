@@ -5,8 +5,8 @@
 This repository is meant to be some kind of a blog on my journey of learning the **Rust** programming language.
 
 For 40 days I will add a new piece of code that implements some feature of the **Rust** programming language, I will basically  
- compose all the things, so on day 40 I'm supposed to push a complex application or at least some useful software that  
- demonstrates that I am decent applying the concepts I learned.
+compose all the things, so on day 40 I'm supposed to push a complex application or at least some useful software that  
+demonstrates that I am decent applying the concepts I learned.
 
 ## Why Rust?
 
