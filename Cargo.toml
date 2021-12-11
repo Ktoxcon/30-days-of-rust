@@ -1,0 +1,9 @@
+[package]
+name = "thirty-days-of-rust"
+version = "0.1.0"
+authors = ["kenneth-toxcon <kenneth.toxconrodas@telus.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
