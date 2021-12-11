@@ -5,5 +5,5 @@ of all programming languages.
 
 ## Notes
 
-It's really interesting how **Rust** doesn't need any specific import statement or extra library to print some text in `stdio`.  
+It's really interesting how **Rust** doesn't need any specific import statement or extra library to print some text in `stdo`.  
 In **Rust** `println!` is a macro not a function. At this point I don't know what's the difference between a function and a macro.
