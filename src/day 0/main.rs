@@ -1,3 +1,3 @@
 fn main(){
-  println!("Day 0 :)");
+  println!("Day 0 :^)");
 }
